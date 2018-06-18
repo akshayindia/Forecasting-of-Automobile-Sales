@@ -13,3 +13,4 @@ b) Multiple time series has dataset include:
 Respective sales are columns wise.
 
 you have to forecast the sales of Automobile for the next one month.
+You can use deep learning model like LSTM etc or through ARIMA model.
