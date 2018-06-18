@@ -1,11 +1,11 @@
 # Forecasting-of-Automobile-Sales
 Forecasting of sales of Automobile. 
 It consist of 2 dataset. 
-a). single time series and b) multiple time series
+a). single_time_series (Automobile_Sales_S.csv) and b) multiple _time_series (Automobile_Sales_M.csv
 
-a) single time series has sales of Automobile and corresponding dates
+a) single time series dataset has sales of Automobile and corresponding dates
 
-b) Multiple time series has 
+b) Multiple time series has dataset include: 
 1. Fuel type ex petrol, disel and electric.
 2. State type of state.
 3. Policy type type of insurance.
